@@ -1,2 +1,2 @@
-PyATEMMax==1.0.0
+PyATEMMax==1.0b9
 paho-mqtt==1.6.1
